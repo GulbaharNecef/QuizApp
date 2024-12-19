@@ -45,6 +45,12 @@
             Console.WriteLine("Thank you for playing!");
 
             Console.ReadKey();
+            //fldslsdlfsdfkls
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+
         }
     }
 }
